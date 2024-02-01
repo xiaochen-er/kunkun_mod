@@ -17,7 +17,7 @@ displayName="KunKun Mod"
 # 可选，你的mod的更新链接
 #updateJSONURL="https://space.bilibili.com/412891082"
 # 可选，你的mod介绍网页的链接
-displayURL="\ngithub：https://github.com/xiaochen-er/lazy_mod\ngitee：https://gitee.com/xiaochen_er\nbilibili：https://space.bilibili.com/412891082" #optional
+displayURL="\ngithub：https://github.com/xiaochen-er/kunkun_mod\ngitee：https://gitee.com/xiaochen_er\nbilibili：https://space.bilibili.com/412891082" #optional
 # 可选，你的Mod的Logo
 logoFile="logo.png"
 # 可选，你的Mod的致谢名单
