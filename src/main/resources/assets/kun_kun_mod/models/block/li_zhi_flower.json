@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "kun_kun_mod:block/li_zhi_flower"
+  }
+}

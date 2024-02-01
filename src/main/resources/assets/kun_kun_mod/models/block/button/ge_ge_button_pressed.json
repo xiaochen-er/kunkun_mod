@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "kun_kun_mod:block/ge_ge_block"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "kun_kun_mod:block/trees/stripped_li_zhi_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "kun_kun_mod:block/trees/stripped_li_zhi_wood"
+    },
+    "axis=z": {
+      "model": "kun_kun_mod:block/trees/stripped_li_zhi_wood",
+      "x": 90
+    }
+  }
+}

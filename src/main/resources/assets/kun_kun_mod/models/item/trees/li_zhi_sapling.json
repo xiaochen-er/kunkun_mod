@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kun_kun_mod:block/trees/li_zhi_sapling"
+  }
+}

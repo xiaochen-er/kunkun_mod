@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top",
+  "textures": {
+    "top": "kun_kun_mod:block/ge_ge_door_top",
+    "bottom": "kun_kun_mod:block/ge_ge_door_bottom"
+  }
+}

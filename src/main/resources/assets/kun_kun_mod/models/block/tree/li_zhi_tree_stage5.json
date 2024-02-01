@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "kun_kun_mod:block/tree/li_zhi_tree_stage5"
+  }
+}

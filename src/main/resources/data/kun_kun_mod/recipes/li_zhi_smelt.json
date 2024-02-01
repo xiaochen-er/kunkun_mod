@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "minecraft:egg"
+  },
+  "result": "kun_kun_mod:li_zhi_tree",
+  "experience": 2.5,
+  "cookingtime": 50
+}

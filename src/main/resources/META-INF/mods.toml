@@ -1,0 +1,50 @@
+# 规定mod的Loader，大部分情况下不需要修改
+modLoader="javafml"
+# 规定了mod运行的Forge版本，大部分情况下不需要修改
+loaderVersion="[36,)"
+# 必填，这里填入的是你的Mod许可证
+license="By xiaochen_er"
+# 可选，你的Mod Bug提交地址，按需修改
+#issueTrackerURL="https://space.bilibili.com/412891082"
+# 模组列表 - 这里允许多少个模组由单个模组加载器决定
+[[mods]]
+# 必填，这里需要填入你的modId，和代码中的要保持一致
+modId="kun_kun_mod"
+# 必填，一般情况下保持默认即可
+version="1.0"
+# 必填，显示名称，你的mod在Mod界面的显示名称
+displayName="KunKun Mod"
+# 可选，你的mod的更新链接
+#updateJSONURL="https://space.bilibili.com/412891082"
+# 可选，你的mod介绍网页的链接
+displayURL="\ngithub：https://github.com/xiaochen-er/lazy_mod\ngitee：https://gitee.com/xiaochen_er\nbilibili：https://space.bilibili.com/412891082" #optional
+# 可选，你的Mod的Logo
+logoFile="logo.png"
+# 可选，你的Mod的致谢名单
+#credits="xiaochen_er" #optional
+# 可选，你的Mod的作者名单
+authors="xiaochen_er" #optional
+# 必填，你的mod在mod界面的介绍
+description='''作者正在赶忙制作
+模组正在测试中
+敬请期待'''
+# A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
+[[dependencies.kun_kun_mod]] #optional
+    # the modid of the dependency
+    modId="forge" #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory=true #mandatory
+    # The version range of the dependency
+    versionRange="[36,)" #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the relationship is not mandatory
+    ordering="NONE"
+    # Side this dependency is applied on - BOTH, CLIENT or SERVER
+    side="BOTH"
+# Here's another dependency
+[[dependencies.kun_kun_mod]]
+    modId="minecraft"
+    mandatory=true
+# This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kun_kun_mod:item/ge_ge_door"
+  }
+}

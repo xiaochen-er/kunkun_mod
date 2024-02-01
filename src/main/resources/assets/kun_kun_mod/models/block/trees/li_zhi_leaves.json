@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "kun_kun_mod:block/trees/li_zhi_leaves"
+  }
+}

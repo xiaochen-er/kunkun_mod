@@ -1,0 +1,52 @@
+{
+  "itemGroup.ge_ge_tab": "GE_GE_TAB",
+  "itemGroup.li_zhi_tab": "LI_ZHI_TAB",
+
+  "item.kun_kun_mod.tools.ge_ge_sword": "GE_GE_SWORD",
+  "item.kun_kun_mod.tools.ge_ge_pickaxe": "GE_GE_PICKAXE",
+  "item.kun_kun_mod.tools.ge_ge_axe": "GE_GE_AXE",
+  "item.kun_kun_mod.tools.ge_ge_shovel": "GE_GE_SHOVEL",
+  "item.kun_kun_mod.tools.ge_ge_hoe": "GE_GE_HOE",
+
+  "item.kun_kun_mod.equip.ge_ge_helmet": "GE_GE_HELMET",
+  "item.kun_kun_mod.equip.ge_ge_chestplate": "GE_GE_CHESTPLATE",
+  "item.kun_kun_mod.equip.ge_ge_leggings": "GE_GE_LEGGINGS",
+  "item.kun_kun_mod.equip.ge_ge_boots": "GE_GE_BOOTS",
+
+  "item.kun_kun_mod.ge_ge_horse_armor": "GE_GE_HORSE_ARMOR",
+
+  "item.kun_kun_mod.ge_ge_item": "GE_GE_ITEM",
+  "item.kun_kun_mod.flame_ge_ge_item": "FLAME_GE_GE_ITEM",
+  "block.kun_kun_mod.li_zhi_tree": "LI_ZHI_TREE",
+
+  "block.kun_kun_mod.ge_ge_block": "GE_GE_BLOCK",
+  "block.kun_kun_mod.ge_ge_ore": "GE_GE_ORE",
+  "block.kun_kun_mod.flame_ge_ge_block": "FLAME_GE_GE_BLOCK",
+  "block.kun_kun_mod.ge_ge_stairs": "GE_GE_STAIRS",
+  "block.kun_kun_mod.ge_ge_slab": "GE_GE_SLAB",
+
+  "block.kun_kun_mod.trees.li_zhi_wood": "LI_ZHI_WOOD",
+  "block.kun_kun_mod.trees.li_zhi_log": "LI_ZHI_LOG",
+  "block.kun_kun_mod.trees.li_zhi_planks": "LI_ZHI_PLANKS",
+  "block.kun_kun_mod.trees.stripped_li_zhi_wood": "STRIPPED_LI_ZHI_WOOD",
+  "block.kun_kun_mod.trees.stripped_li_zhi_log": "STRIPPED_LI_ZHI_LOG",
+  "block.kun_kun_mod.trees.li_zhi_leaves": "LI_ZHI_LEAVES",
+  "block.kun_kun_mod.trees.li_zhi_sapling": "LI_ZHI_SAPLING",
+  "block.kun_kun_mod.li_zhi_flower": "LI_ZHI_FLOWER",
+
+  "block.kun_kun_mod.fence.ge_ge_fence": "GE_GE_FENCE",
+  "block.kun_kun_mod.fence.ge_ge_fence_gate": "GE_GE_FENCE_GATE",
+  "block.kun_kun_mod.ge_ge_door": "GE_GE_DOOR",
+  "block.kun_kun_mod.ge_ge_trapdoor": "GE_GE_TRAPDOOR",
+  "block.kun_kun_mod.ge_ge_button": "GE_GE_BUTTON",
+  "block.kun_kun_mod.ge_ge_pressure_plate": "GE_GE_PRESSURE_PLATE",
+
+  "block.kun_kun_mod.box": "Box",
+  "container.kun_kun_mod.box": "Box",
+
+  "tooltip.kun_kun_mod.ge_ge_item": "Hold \u00A76Ctrl\u00A7r for more information",
+
+  "tooltip.kun_kun_mod.ge_ge_item_alt": "rap",
+  "tooltip.kun_kun_mod.ge_ge_item_ctrl": "rap",
+  "tooltip.kun_kun_mod.ge_ge_item_shift": "rap"
+}

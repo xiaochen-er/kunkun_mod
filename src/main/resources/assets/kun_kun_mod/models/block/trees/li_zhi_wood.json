@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "kun_kun_mod:block/trees/li_zhi_log",
+    "side": "kun_kun_mod:block/trees/li_zhi_log"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "kun_kun_mod:block/trees/li_zhi_planks"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "kun_kun_mod:block/ge_ge_block"
+  }
+}

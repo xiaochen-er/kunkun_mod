@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "x",
+    "y",
+    "y"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "kun_kun_mod:ge_ge_item"
+    },
+    "y":
+    {
+      "item": "kun_kun_mod:li_zhi_tree"
+    }
+  },
+  "result":
+  {
+    "item": "kun_kun_mod:tools/ge_ge_shovel",
+    "count": 1
+  }
+}

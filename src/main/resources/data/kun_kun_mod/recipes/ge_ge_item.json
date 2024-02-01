@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "kun_kun_mod:li_zhi_tree"
+    }
+  ],
+  "result":
+  {
+    "item": "kun_kun_mod:ge_ge_item",
+    "count": 2
+  }
+}

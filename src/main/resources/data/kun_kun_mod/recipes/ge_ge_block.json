@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xx",
+    "xx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:ge_ge/ge_ge_item"
+    }
+  },
+  "result":
+  {
+    "item": "kun_kun_mod:ge_ge_block",
+    "count": 1
+  }
+}

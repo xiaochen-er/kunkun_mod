@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "kun_kun_mod:item/tools/ge_ge_hoe"
+  }
+}

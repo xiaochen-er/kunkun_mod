@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "kun_kun_mod:block/ge_ge_slab"
+    },
+    "type=double": {
+      "model": "kun_kun_mod:block/ge_ge_block"
+    },
+    "type=top": {
+      "model": "kun_kun_mod:block/ge_ge_slab_top"
+    }
+  }
+}

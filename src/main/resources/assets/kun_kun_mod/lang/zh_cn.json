@@ -1,0 +1,52 @@
+{
+  "itemGroup.ge_ge_tab": "鸽鸽栏",
+  "itemGroup.li_zhi_tab": "荔枝栏",
+
+  "item.kun_kun_mod.tools.ge_ge_sword": "鸽鸽剑",
+  "item.kun_kun_mod.tools.ge_ge_pickaxe": "鸽鸽镐",
+  "item.kun_kun_mod.tools.ge_ge_axe": "鸽鸽斧",
+  "item.kun_kun_mod.tools.ge_ge_shovel": "鸽鸽铲",
+  "item.kun_kun_mod.tools.ge_ge_hoe": "鸽鸽锄",
+
+  "item.kun_kun_mod.equip.ge_ge_helmet": "鸽鸽头盔",
+  "item.kun_kun_mod.equip.ge_ge_chestplate": "鸽鸽胸甲",
+  "item.kun_kun_mod.equip.ge_ge_leggings": "鸽鸽护腿",
+  "item.kun_kun_mod.equip.ge_ge_boots": "鸽鸽靴子",
+
+  "item.kun_kun_mod.ge_ge_horse_armor": "鸽鸽马鞍",
+
+  "item.kun_kun_mod.ge_ge_item": "鸽鸽",
+  "item.kun_kun_mod.flame_ge_ge_item": "暴躁老鸽",
+  "block.kun_kun_mod.li_zhi_tree": "荔枝",
+
+  "block.kun_kun_mod.ge_ge_block": "鸽鸽块",
+  "block.kun_kun_mod.ge_ge_ore": "鸽鸽矿",
+  "block.kun_kun_mod.flame_ge_ge_block": "火焰鸽鸽块",
+  "block.kun_kun_mod.ge_ge_stairs": "鸽鸽楼梯",
+  "block.kun_kun_mod.ge_ge_slab": "鸽鸽半砖",
+
+  "block.kun_kun_mod.trees.li_zhi_wood": "荔枝木",
+  "block.kun_kun_mod.trees.li_zhi_log": "荔枝原木",
+  "block.kun_kun_mod.trees.li_zhi_planks": "荔枝木板",
+  "block.kun_kun_mod.trees.stripped_li_zhi_wood": "去皮荔枝木",
+  "block.kun_kun_mod.trees.stripped_li_zhi_log": "去皮荔枝原木",
+  "block.kun_kun_mod.trees.li_zhi_leaves": "荔枝树叶",
+  "block.kun_kun_mod.trees.li_zhi_sapling": "荔枝树苗",
+  "block.kun_kun_mod.li_zhi_flower": "荔枝花",
+
+  "block.kun_kun_mod.fence.ge_ge_fence": "鸽鸽栅栏",
+  "block.kun_kun_mod.fence.ge_ge_fence_gate": "鸽鸽栅栏门",
+  "block.kun_kun_mod.ge_ge_door": "鸽鸽门",
+  "block.kun_kun_mod.ge_ge_trapdoor": "鸽鸽活板门",
+  "block.kun_kun_mod.ge_ge_button": "鸽鸽按钮",
+  "block.kun_kun_mod.ge_ge_pressure_plate": "鸽鸽压力板",
+
+  "block.kun_kun_mod.box": "箱子",
+  "container.kun_kun_mod.box": "箱子",
+
+  "tooltip.kun_kun_mod.ge_ge_item": "按下 \u00a76Shift \u00a7r显示更多信息\n按下 \u00a76Ctrl \u00a7r显示更多信息\n按下 \u00a76Alt \u00a7r显示更多信息",
+
+  "tooltip.kun_kun_mod.ge_ge_item_alt": "唱",
+  "tooltip.kun_kun_mod.ge_ge_item_ctrl": "跳",
+  "tooltip.kun_kun_mod.ge_ge_item_shift": "rap"
+}

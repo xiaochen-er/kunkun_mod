@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "kun_kun_mod:ge_ge_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kun_kun_mod:ge_ge_item"
+        }
+      ]
+    }
+  ]
+}
