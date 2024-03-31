@@ -80,6 +80,20 @@ public class Flame_Ge_Ge_Item extends Item {
     public static void lightEntityOnFire(Entity entity, int second) {
         entity.setFire(second);//点燃实体  可被其他调用
     }
+    //容器
+    @Override
+    public boolean hasContainerItem(ItemStack stack) {
+        return true;
+    }
+    @Override
+    public ItemStack getContainerItem(ItemStack itemStack) {
+        ItemStack container = itemStack.copy();
+        if (container.attemptDamageItem(1,random,null)){
+            return ItemStack.EMPTY;
+        }else {
+            return container;
+        }
+    }
 
     //物品信息
     @Override

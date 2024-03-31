@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_log"
+    },
+    {
+      "item": "kun_kun_mod:flame_ge_ge_item"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal"
+  }
+}
